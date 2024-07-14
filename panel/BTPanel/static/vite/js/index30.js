@@ -1,0 +1,1 @@
+import{f as s}from"./useAccount.js?v=1720690738171";import{l as a,x as i,S as t,Z as o}from"./vue.js?v=1720690738171";import"./index.js?v=1720690738171";import"./pinia.js?v=1720690738171";const e={id:"soft-main"},m=a({__name:"index",setup:a=>(i((async()=>{await s()})),(s,a)=>(t(),o("div",e)))});export{m as default};
