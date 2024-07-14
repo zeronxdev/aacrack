@@ -1,1 +1,0 @@
-System.register(["./index-legacy.js?v=1720690738171"],(function(e,t){"use strict";var r,c;return{setters:[e=>{r=e.cj,c=e.ck}],execute:function(){e("c",(function(e){return r(c(e).toLowerCase())}))}}}));
