@@ -1,1 +1,0 @@
-System.register(["./index-legacy40.js?v=1720690738171","./index-legacy.js?v=1720690738171","./vue-legacy.js?v=1720690738171","./pinia-legacy.js?v=1720690738171"],(function(e,n){"use strict";var t,c,r,s;return{setters:[e=>{t=e._},e=>{c=e.a},e=>{r=e.S,s=e.U},null],execute:function(){e("default",c({},[["render",function(e,n){const c=t;return r(),s(c,{path:"config"})}]]))}}}));
