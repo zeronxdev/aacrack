@@ -1,1 +1,0 @@
-import{_ as o}from"./index40.js?v=1720690738171";import{a as r}from"./index.js?v=1720690738171";import{S as s,U as t}from"./vue.js?v=1720690738171";import"./pinia.js?v=1720690738171";const i=r({},[["render",function(r,i){const n=o;return s(),t(n,{path:"config"})}]]);export{i as default};
